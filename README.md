@@ -51,12 +51,3 @@ This project provides valuable insights into:
 3. **Historical Sales Trends**: Review the Line Chart to understand how outlet establishment year affects sales growth.
 4. **Custom Filters**: Apply filters to narrow down insights based on specific categories and metrics.
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or reach out for suggestions and improvements.
-
----
-
-**Project Author**: Sujit Mahapatra  
-**Contact**: [LinkedIn](https://www.linkedin.com/in/mr-sm25/)
-
