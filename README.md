@@ -11,7 +11,7 @@ Quick Commerce is emerging as a popular trend compared to traditional E-Commerce
 - **Number of Items - 8,523** | **Average Rating - 3.9**
 
 # Power BI Dashboard
-![Dashboard]https://github.com/Mksingh15/Blinkit-Analysis-Dashboard-PowerBI/blob/d51a833dbd105e60015225565dee0e73393646d4/Blinkit%20Analysis%20Dashboard.png
+![Dashboard](https://github.com/Mksingh15/Blinkit-Analysis-Dashboard-PowerBI/blob/d51a833dbd105e60015225565dee0e73393646d4/Blinkit%20Analysis%20Dashboard.png)
 The dashboard uses various visualization techniques for a clear and actionable analysis of the sales data:
 
 - **Donut Charts**
